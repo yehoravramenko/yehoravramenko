@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">My name is Yehor and I'm C/C++ software and graphics developer from Ukraine. I enjoy contributing to different projects and creating something by myself.</p>
+<p align="left">My name is Yehor and I'm a software and graphics developer from Ukraine. I've started my coding journey ~6 years ago and now I generally specialize in C/C++, OpenGL and Lua. I enjoy contributing to different projects and creating useful products by myself.</p>
 
 ###
 
@@ -36,9 +36,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+  <img width="12" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40" alt="opengl logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+  <img width="12" />
 </div>
 
 ###
@@ -49,14 +54,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yehoravramenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/bkg82sphw9s1fboir12ltp8qt">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bkg82sphw9s1fboir12ltp8qt&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
